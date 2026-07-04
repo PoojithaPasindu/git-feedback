@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 
 
-jjobs:
+jobs:
   example:
     runs-on: ubuntu-latest
     steps:
